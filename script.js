@@ -36,7 +36,7 @@ ctx.beginPath()
 
 ctx.arc(canvas.width/2,canvas.height/2,w.radius,0,Math.PI*2)
 
-ctx.strokeStyle="rgba(255,255,255,0.05)"
+ctx.strokeStyle="rgba(255,255,255,0.12)"
 
 ctx.lineWidth=2
 
